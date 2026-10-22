@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" stroke="#B8923F" stroke-width="3" fill="#07181A"/>
+  <circle cx="60" cy="60" r="50" stroke="#D8B964" stroke-width="1" stroke-dasharray="3 2" opacity="0.8"/>
+  <circle cx="60" cy="60" r="38" stroke="#B8923F" stroke-width="1.2" opacity="0.6"/>
+  <rect x="56" y="76" width="8" height="14" rx="2" fill="#B8923F" stroke="#D8B964" stroke-width="0.8"/>
+  <circle cx="60" cy="92" r="3.5" fill="#A4161A" stroke="#D8B964" stroke-width="1"/>
+  <path d="M46 75 C46 72, 74 72, 74 75 L71 78 L49 78 Z" fill="#B8923F" stroke="#D8B964" stroke-width="0.8"/>
+  <path d="M60 22 L49 60 C50 67, 54 71, 60 74 Z" fill="#C8CDD5" stroke="#D8B964" stroke-width="0.8"/>
+  <path d="M60 22 L71 60 C70 67, 66 71, 60 74 Z" fill="#E9E4D6" stroke="#D8B964" stroke-width="0.8"/>
+  <line x1="60" y1="23" x2="60" y2="58" stroke="#A4161A" stroke-width="1.6" stroke-linecap="round"/>
+  <circle cx="60" cy="52" r="2.8" fill="#07181A" stroke="#D8B964" stroke-width="0.8"/>
+  <circle cx="60" cy="52" r="1.4" fill="#A4161A"/>
+  <path d="M59 22 L60 17 L61 22 Z" fill="#D8B964"/>
+  <text x="28" y="62" font-size="8" fill="#B8923F" text-anchor="middle">✦</text>
+  <text x="92" y="62" font-size="8" fill="#B8923F" text-anchor="middle">✦</text>
+</svg>

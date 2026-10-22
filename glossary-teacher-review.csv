@@ -1,0 +1,27 @@
+﻿ID,English Term,Bengali Term (needsReview),Semester,Unit,Category,Teacher: Correct Bengali?,Teacher: Corrected Term,Teacher: Notes,Teacher: Approved? (yes/no)
+accounting,Accounting,হিসাবশাস্ত্র,1,1,fundamental,,,,no
+transaction,Transaction,লেনদেন,1,1,fundamental,,,,no
+journal,Journal,জাবেদা,1,2,fundamental,,,,no
+ledger,Ledger,খতিয়ান,1,2,fundamental,,,,no
+trial-balance,Trial Balance,রেওয়ামিল,1,2,statement,,,,no
+cash-book,Cash Book,নগদান বই,2,1,fundamental,,,,no
+balance-sheet,Balance Sheet,উদ্বৃত্তপত্র,2,2,statement,,,,no
+debit,Debit,ডেবিট (দেনা),1,2,fundamental,,,,no
+credit,Credit,ক্রেডিট (পাওনা),1,2,fundamental,,,,no
+capital,Capital,মূলধন,1,1,fundamental,,,,no
+drawings,Drawings,উত্তোলন,1,1,fundamental,,,,no
+assets,Assets,সম্পদ,1,1,fundamental,,,,no
+liabilities,Liabilities,দায়,1,1,fundamental,,,,no
+debtor,Debtor,দেনাদার,1,1,fundamental,,,,no
+creditor,Creditor,পাওনাদার,1,1,fundamental,,,,no
+depreciation,Depreciation,অবচয়,2,1,fundamental,,,,no
+narration,Narration,বিবরণ,1,2,fundamental,,,,no
+voucher,Voucher,ভাউচার,1,2,fundamental,,,,no
+reserve,Reserve,সঞ্চিতি,1,3,fundamental,,,,no
+provision,Provision,সংস্থান,1,3,fundamental,,,,no
+bill-of-exchange,Bill of Exchange,বিনিময় বিল,1,4,fundamental,,,,no
+partnership,Partnership,অংশীদারি কারবার,3,1,partnership,,,,no
+goodwill,Goodwill,সুনাম,3,1,partnership,,,,no
+debenture,Debenture,ঋণপত্র,3,2,company,,,,no
+share,Share,শেয়ার,3,2,company,,,,no
+cash-flow-statement,Cash Flow Statement,নগদ প্রবাহ বিবরণী,4,1,statement,,,,no
